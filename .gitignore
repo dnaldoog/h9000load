@@ -1,2 +1,29 @@
 /Builds
-.vs
+    # Visual Studio 2022 Specific
+    .vs/
+    *.suo
+    *.user
+    *.log
+
+    # Build Results
+    [Bb]in/
+    [Oo]bj/
+    [Dd]ebug/
+    [Rr]elease/
+    *.pdb
+    *.ilk
+    *.cache
+
+    # Resharper/Other Extensions
+    *.DotSettings
+    *.resharper
+    *.vspscc
+
+    # Package Manager
+    packages/
+    *.nupkg
+
+    # Miscellaneous
+    Thumbs.db
+    ehthumbs.db
+    Desktop.ini
