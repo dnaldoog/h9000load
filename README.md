@@ -17,3 +17,8 @@ I used these compile and linker settings:
 #### Library Directories	Linker → General → Additional Library Directories	This path points to where you compiled the .lib file locally.
 
 #### Compiled Files	zlibstat.lib and zlib.h	
+
+<img width="919" height="632" alt="{8F986170-0220-4E7A-B579-85A46BDAE4CC}" src="https://github.com/user-attachments/assets/1321b551-4d00-4bf7-8dba-4d85923754fe" />
+
+<img width="923" height="636" alt="{452D8B2F-95C2-4F6D-9CBF-9672ED3DCBD8}" src="https://github.com/user-attachments/assets/d7e1b86d-802c-4007-9d5f-691c02297ad4" />
+
