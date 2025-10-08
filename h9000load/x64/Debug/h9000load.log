@@ -1,4 +1,0 @@
-﻿  h9000load.cpp
-C:\Users\zan64\Documents\h9000load\h9000load.cpp(146,38): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
-C:\Users\zan64\Documents\h9000load\h9000load.cpp(230,36): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
-  h9000load.vcxproj -> C:\Users\zan64\Documents\h9000load\x64\Debug\h9000load.exe
