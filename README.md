@@ -1,5 +1,5 @@
 Eventide h9000 config files are base64 encoded gzipped JSON files<br>
-This program decompresses .9ks files and outputs JSON files and recompresses and saves to .9ks files<br>
+
 https://github.com/RomanKubiak/ctrlr/discussions/732
 Added panel for testing
 Executable is hardcoded to c:\
